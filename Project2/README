@@ -1,0 +1,11 @@
+STUDENT’S NAME: PHUONG DAO
+CODING PROJECT 2: Sampling and Reconstruction
+EE-125
+Professor: Jordan Rosenthal
+Date submitted: 10/05/2026
+
+Objective: This lab demonstrates the fundamental relationship between continuous-time and 
+discrete-time signals. Sampling shows how continuous signals are converted into digital data, 
+while undersampling demonstrates aliasing and the loss of signal information when the sampling 
+rate is too low. Interpolation then shows how a continuous signal can be reconstructed from its samples. 
+These concepts are essential in practical applications such as ADCs, sensors, audio, communications, and digital signal processing.
