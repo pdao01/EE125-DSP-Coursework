@@ -1,0 +1,9 @@
+STUDENT’S NAME: PHUONG DAO
+CODING PROJECT 3: FIR and IIR filtering of Nerve Signals
+Professor: Jordan Rosenthal
+Date submitted: 10/23/2026
+
+Objective: This project explores how FIR and IIR filtering can be utilized to denoise a signal 
+(in this case, a SNAP (Sensory Nerve Action Potential) signal is detected with a ring electrode). 
+This lab will also improve the performance of a parameter estimation task and compare the different 
+properties of FIR and IIR filters by examining how they transform a biomedical signal.
